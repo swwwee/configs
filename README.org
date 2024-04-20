@@ -1,6 +1,4 @@
-#+title: README
-
-*  configs
+#+title: configs
 
 These are my personal configs. Although I am not *100* % proud of them, they get the job done, and github provides me with a free way to store them; therefore, why wouldn't I share them?
 
