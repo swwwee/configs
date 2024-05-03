@@ -5,18 +5,18 @@ These are my personal configs. Although I am not *100* % proud of them, they get
 - *Disclaimer:* The background is not mine, therefore I will not share it within this git-repo.
 
 *There are currently three configs:*
- * an i3-config, that is /retired./
+ * an i3-config
  * the sway version of said config.
  * and grey-beard-wm (emacs)
  * /more soon to come/
 
-- The emacs config *will not work* properly without installation of addition packages. I would also advise compiling emacs from source with SQLite (org-roam back end), Dynamic Module Support (doom-emacs suggestion), and Native-Compilation (also doom-emacs suggestion).
+- The emacs config *will not work* properly without installation of addition packages. I would also advise compiling emacs from source with SQLite (org-roam back end), Dynamic Module Support (a doom-emacs suggestion), and Native-Compilation (also a doom-emacs suggestion).
 
  * Pictures:
 
 #+NAME: picture of sway-wm
 #+ATTR_HTML: :width 500px :align center
-[[file:screenshot-1.png]]
-#+CAPTION: sway-wm with emacs and alacritty-term open
+[[file:screenies/screenshot-1.png]]
+#+CAPTION: "sway-wm with emacs and alacritty-term open"
 
 This repository is a WIP and may forever stay a work in progress. That is for one reason: As an emacs user, you create problems you never had before and you will continue to do so until the end of time.
