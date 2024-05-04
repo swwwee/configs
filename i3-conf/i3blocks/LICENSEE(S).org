@@ -1,0 +1,5 @@
+#+title: Licensee(s)
+
+*Some of these scripts are not mine!*
+
+All rights go to the respective copyright owners. If a script is not mine, it will include the license at the top. If it is my script, the license will be under the project's license, i.e. [[file:~/Projects/personal/configs/LICENSE][main/license]].

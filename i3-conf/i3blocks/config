@@ -1,0 +1,28 @@
+# - my i3blocks config
+
+# globals
+SCRIPT_DIR=/home/pompomflips/.config/i3blocks/scripts
+markup=pango
+# exec from script dir & block name
+command=$SCRIPT_DIR/$BLOCK_NAME
+# seperators
+separator=true
+separator_block_width=15
+
+# blocks
+[memory]
+interval=15
+
+# ~info: 'battery'
+# - (install font-awesome for better fonts)
+[battery]
+interval=25
+
+# ~info: 'temp'
+# - temp as in cpu temp...
+[temp]
+interval=10
+
+[time]
+command=date '+%d-%m-%Y %H:%M:%S'
+interval=1
