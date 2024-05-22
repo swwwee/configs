@@ -22,6 +22,7 @@ interval=25
 # - temp as in cpu temp...
 [temp]
 interval=10
+command=$SCRIPT_DIR/temp --chip coretemp-isa-0000
 
 [time]
 command=date '+%d-%m-%Y %H:%M:%S'
